@@ -17,7 +17,9 @@
 
 <h2 align="center">Selected work</h2>
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Sumit0802-afk/NEXORA"><img src="./assets/nexora.svg" alt="NEXORA. Design homes you can walk through." width="100%" /></a>
@@ -39,6 +41,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 

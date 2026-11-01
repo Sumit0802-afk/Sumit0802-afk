@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="100%" role="img" aria-label="FALCON. Design with purpose. Create without limits.">
+<style>
+.b{stroke-dasharray:180 1500;animation:b 7s linear infinite;animation-delay:-1.3s}
+@keyframes b{to{stroke-dashoffset:-1680}}
+.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}
+@media (prefers-reduced-motion:reduce){.b,.p{animation:none}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2240"/><stop offset=".6" stop-color="#050b16"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="228" rx="16" fill="url(#bg)" stroke="#4da3ff" stroke-opacity=".22"/>
+<rect class="b" x="1" y="1" width="638" height="228" rx="16" fill="none" stroke="#4da3ff" stroke-width="2"/>
+<text x="616" y="214" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="96" fill="#4da3ff" fill-opacity=".07">02</text>
+<circle class="p" cx="31" cy="38" r="4" fill="#4da3ff"/>
+<text x="46" y="43" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#4da3ff">DESIGN TOOL</text>
+<text x="26" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#ffffff">FALCON</text>
+<text x="26" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#a8c6e6">Design with purpose. Create without limits.</text>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7f9dbd">Next.js  ·  TypeScript  ·  Express  ·  Prisma</text>
+</svg>

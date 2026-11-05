@@ -12,6 +12,6 @@
 <circle class="p" cx="31" cy="38" r="4" fill="#4da3ff"/>
 <text x="46" y="43" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#4da3ff">ARCHITECTURE / 3D</text>
 <text x="26" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#ffffff">NEXORA</text>
-<text x="26" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#a8c6e6">Design homes you can walk through.</text>
-<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7f9dbd">Next.js  ·  TypeScript  ·  three.js  ·  FastAPI</text>
+<text x="26" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#a8c6e6">Draw a plan. Restyle it from a photo. Walk through it.</text>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7f9dbd">Next.js 16  ·  React 19  ·  three.js  ·  FastAPI</text>
 </svg>

@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Sumit0802-afk/NEXORA"><img src="./assets/nexora.svg" alt="NEXORA. Design homes you can walk through." width="100%" /></a>
+<a href="https://github.com/Sumit0802-afk/NEXORA"><img src="./assets/nexora.svg" alt="NEXORA. Draw a plan, restyle it from a photo, and walk through it." width="100%" /></a>
 <p align="center"><a href="https://github.com/Sumit0802-afk/NEXORA">Repository</a> &nbsp;·&nbsp; <a href="https://nexorahome.vercel.app">Live site</a></p>
 </td>
 <td width="50%" valign="top">
@@ -41,6 +41,8 @@
 </td>
 </tr>
 </table>
+
+<p><b>Latest in NEXORA:</b> a house design studio that restyles the 3D model from front, rear and side photos, a searchable design catalog with real 3D previews, per-object editing of walls, windows and doors, and a plot boundary wall with gates.</p>
 
 </div>
 
